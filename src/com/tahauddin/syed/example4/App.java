@@ -1,5 +1,7 @@
 package com.tahauddin.syed.example4;
 
+import java.lang.reflect.Method;
+
 /**
  * Multi Threading Environment
  * then there will be a possibility  of creating more than 1 singleton java class.
@@ -8,8 +10,8 @@ package com.tahauddin.syed.example4;
  */
 public class App {
     public static void main(String[] args){
-        // creating threads..
 
+        // creating threads..
         PrinterFactory printerFactory = new PrinterFactory();
 
         Thread thread1 = new Thread(printerFactory);

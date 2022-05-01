@@ -20,6 +20,11 @@ public class Printer {
      * @return
      */
     public static Printer getInstance(){
+        // in static methods, we cannot use this in synchronized()
+        // we have to pass class name in the form of
+        // java.lang.Class
+        // Class<Printer> printerClass = Printer.class;
+        // this will contain the all meta data of the object
         synchronized (Printer.class){
             if(null == INSTANCE){
                 INSTANCE = new Printer();
