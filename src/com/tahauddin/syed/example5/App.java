@@ -1,6 +1,4 @@
-package com.tahauddin.syed.example4;
-
-import java.lang.reflect.Method;
+package com.tahauddin.syed.example5;
 
 /**
  * Multi Threading Environment
@@ -54,8 +52,7 @@ public class App {
         thread17.start();
         thread18.start();
         thread19.start();
-
         long stopTime = System.currentTimeMillis();
-        System.out.println("Total Time Took is :: Single Null Check:: " + (stopTime - startTime));
+        System.out.println("Total Time :: for Double Null Check:: " + (stopTime - startTime));
     }
 }
