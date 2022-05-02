@@ -15,3 +15,11 @@ X
 (src/com/tahauddin/syed/example4/App.java,9\1\911dc5ffe3e07bb4df6ab473db53632e22add20f
 \
 ,src/com/tahauddin/syed/example5/Printer.java,e\7\e7e7e3fef53df00f71ada0560e6b3105cecd100f
+c
+3src/com/tahauddin/syed/example5/PrinterFactory.java,0\c\0cb88ffb04be047904831164092d1cec302d77a3
+X
+(src/com/tahauddin/syed/example5/App.java,3\f\3fb3cd77eb47ebcf693c810fe3418d2f1c5587f9
+X
+(src/com/tahauddin/syed/example6/App.java,1\2\123acf011b30f7c76994665268840db5e898df94
+\
+,src/com/tahauddin/syed/example6/Printer.java,9\c\9cdb54128aee3f282277f8e3881f8be413f51d4f
