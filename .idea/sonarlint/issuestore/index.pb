@@ -7,3 +7,11 @@ X
 ,src/com/tahauddin/syed/example2/Printer.java,2\3\2386d565687c5e9b29269865063eb20467241ab7
 X
 (src/com/tahauddin/syed/example2/App.java,1\5\15a87a9ad74bf7c24be8eb466b94d6104afa304e
+\
+,src/com/tahauddin/syed/example4/Printer.java,1\b\1bfe4d7156e5c3320968a1625822a31396648e06
+c
+3src/com/tahauddin/syed/example4/PrinterFactory.java,0\8\08302861400ee8de198c809667bfb418ff66fefe
+X
+(src/com/tahauddin/syed/example4/App.java,9\1\911dc5ffe3e07bb4df6ab473db53632e22add20f
+\
+,src/com/tahauddin/syed/example5/Printer.java,e\7\e7e7e3fef53df00f71ada0560e6b3105cecd100f
